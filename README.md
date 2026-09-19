@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📚_Estudante-Etec_Fernando_Prestes-6A0DAD?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🎓_Cursando-FATEC-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎓_Cursando-DS-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 ---
